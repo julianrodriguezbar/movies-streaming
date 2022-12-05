@@ -1,0 +1,19 @@
+{
+  "name": "movies-streaming",
+  "version": "1.0.0",
+  "description": "Consumo de API REST",
+  "main": "indexx.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianrodriguezbar/movies-streaming.git"
+  },
+  "author": "Julian Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianrodriguezbar/movies-streaming/issues"
+  },
+  "homepage": "https://github.com/julianrodriguezbar/movies-streaming#readme"
+}
